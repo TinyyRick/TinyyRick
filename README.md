@@ -49,10 +49,29 @@ Current highlights include a travel-themed portfolio and small web products such
 
 <br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" height="48" alt="Python" />
-  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" height="48" alt="Git" />
-  <img src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="SQL" />
-  <img src="https://img.shields.io/badge/-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48" alt="Claude" />
-  <img src="https://img.shields.io/badge/-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="ChatGPT" />
-</p>
+### `Tools I work with`
+
+<table>
+  <tr>
+    <td align="center" width="92">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" /><br />
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" /><br />
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="SQL" /><br />
+      <sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Claude" /><br />
+      <sub><b>Claude</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="https://cdn.simpleicons.org/openai/10A37F" width="48" height="48" alt="ChatGPT" /><br />
+      <sub><b>ChatGPT</b></sub>
+    </td>
+  </tr>
+</table>
