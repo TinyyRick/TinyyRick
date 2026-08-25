@@ -40,7 +40,7 @@ console.log("Thanks for dropping by — hope you find something useful here!");
 I build thoughtful web experiences and practical tools. Recently, I have been exploring personal portfolios, product prototypes, and small utilities that make everyday digital work simpler.
 
 - <img src="https://cdn.simpleicons.org/github/8B949E" width="16" height="16" alt="GitHub" /> [Explore my projects](https://github.com/TinyyRick?tab=repositories)
-- <img src="https://cdn.simpleicons.org/vercel/8B949E" width="16" height="16" alt="Portfolio" /> [Visit my portfolio](https://yanghaocheng.space)
+- 🌐 [Visit my website](https://yanghaocheng.space)
 - <img src="https://cdn.simpleicons.org/xiaohongshu/8B949E" width="16" height="16" alt="Xiaohongshu" /> [Follow me on Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ee5bc4200000000010031cf)
 
 Current highlights include a travel-themed portfolio and small web products such as CityMatcher and Subtitle Cover.
@@ -50,9 +50,9 @@ Current highlights include a travel-themed portfolio and small web products such
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" height="48" alt="Python" />
+  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" height="48" alt="Git" />
+  <img src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="SQL" />
+  <img src="https://img.shields.io/badge/-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48" alt="Claude" />
+  <img src="https://img.shields.io/badge/-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="ChatGPT" />
 </p>
