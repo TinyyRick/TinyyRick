@@ -70,7 +70,7 @@ Current highlights include a travel-themed portfolio and small web products such
       <sub><b>Claude</b></sub>
     </td>
     <td align="center" width="92">
-      <img src="https://cdn.simpleicons.org/openai/10A37F" width="48" height="48" alt="ChatGPT" /><br />
+      <img src="https://raw.githubusercontent.com/TinyyRick/TinyyRick/main/assets/chatgpt.svg" width="48" height="48" alt="ChatGPT" /><br />
       <sub><b>ChatGPT</b></sub>
     </td>
   </tr>
