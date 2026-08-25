@@ -41,16 +41,18 @@ I build thoughtful web experiences and practical tools. Recently, I have been ex
 
 - <img src="https://cdn.simpleicons.org/github/8B949E" width="16" height="16" alt="GitHub" /> [Explore my projects](https://github.com/TinyyRick?tab=repositories)
 - <img src="https://cdn.simpleicons.org/vercel/8B949E" width="16" height="16" alt="Portfolio" /> [Visit my portfolio](https://yanghaocheng.space)
-- <img src="https://cdn.simpleicons.org/xiaohongshu/8B949E" width="16" height="16" alt="Xiaohongshu" /> [View my photography on Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ee5bc4200000000010031cf)
+- <img src="https://cdn.simpleicons.org/xiaohongshu/8B949E" width="16" height="16" alt="Xiaohongshu" /> [Follow me on Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ee5bc4200000000010031cf)
 
-Current highlights include a travel-themed portfolio, a photography portfolio, and small web products such as CityMatcher and Subtitle Cover.
+Current highlights include a travel-themed portfolio and small web products such as CityMatcher and Subtitle Cover.
 
 > Feel free to explore my work — I am always happy to connect with people who enjoy building useful, well-crafted things.
 
 <br>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,git,vercel,vscode" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, Git, Vercel, and VS Code" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
