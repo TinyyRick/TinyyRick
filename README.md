@@ -2,7 +2,7 @@
 
 <!-- Profile badges -->
 <div>
-  <a href="https://journey-portfolio-sigma.vercel.app">
+  <a href="https://yanghaocheng.space">
     <img src="https://img.shields.io/badge/Website-Portfolio-8c36db" alt="个人作品集" />
   </a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=TinyyRick&label=Views&color=orange&style=flat" alt="访问量统计" />
@@ -40,7 +40,7 @@ console.log("Thanks for dropping by — hope you find something useful here!");
 I build thoughtful web experiences and practical tools. Recently, I have been exploring personal portfolios, product prototypes, and small utilities that make everyday digital work simpler.
 
 - <img src="https://cdn.simpleicons.org/github/8B949E" width="16" height="16" alt="GitHub" /> [Explore my projects](https://github.com/TinyyRick?tab=repositories)
-- <img src="https://cdn.simpleicons.org/vercel/8B949E" width="16" height="16" alt="Portfolio" /> [Visit my portfolio](https://journey-portfolio-sigma.vercel.app)
+- <img src="https://cdn.simpleicons.org/vercel/8B949E" width="16" height="16" alt="Portfolio" /> [Visit my portfolio](https://yanghaocheng.space)
 - <img src="https://cdn.simpleicons.org/github/8B949E" width="16" height="16" alt="Photo Portfolio" /> [View my photo portfolio](https://photo-portfolio-gray-nu.vercel.app)
 
 Current highlights include a travel-themed portfolio, a photography portfolio, and small web products such as CityMatcher and Subtitle Cover.
