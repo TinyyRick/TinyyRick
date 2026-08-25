@@ -41,7 +41,7 @@ I build thoughtful web experiences and practical tools. Recently, I have been ex
 
 - <img src="https://cdn.simpleicons.org/github/8B949E" width="16" height="16" alt="GitHub" /> [Explore my projects](https://github.com/TinyyRick?tab=repositories)
 - <img src="https://cdn.simpleicons.org/vercel/8B949E" width="16" height="16" alt="Portfolio" /> [Visit my portfolio](https://yanghaocheng.space)
-- <img src="https://cdn.simpleicons.org/github/8B949E" width="16" height="16" alt="Photo Portfolio" /> [View my photo portfolio](https://photo-portfolio-gray-nu.vercel.app)
+- <img src="https://cdn.simpleicons.org/xiaohongshu/8B949E" width="16" height="16" alt="Xiaohongshu" /> [View my photography on Xiaohongshu](https://www.xiaohongshu.com/user/profile/5ee5bc4200000000010031cf)
 
 Current highlights include a travel-themed portfolio, a photography portfolio, and small web products such as CityMatcher and Subtitle Cover.
 
