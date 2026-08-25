@@ -66,11 +66,11 @@ Current highlights include a travel-themed portfolio and small web products such
       <sub><b>SQL</b></sub>
     </td>
     <td align="center" width="92">
-      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Claude" /><br />
+      <img src="https://claude.ai/images/claude_app_icon.png" width="48" height="48" alt="Claude" /><br />
       <sub><b>Claude</b></sub>
     </td>
     <td align="center" width="92">
-      <img src="https://raw.githubusercontent.com/TinyyRick/TinyyRick/main/assets/chatgpt.svg" width="48" height="48" alt="ChatGPT" /><br />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenAI_logo_2025_%28symbol%29.svg" width="48" height="48" alt="ChatGPT" /><br />
       <sub><b>ChatGPT</b></sub>
     </td>
   </tr>

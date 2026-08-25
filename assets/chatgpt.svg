@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
-  <title id="title">ChatGPT</title>
-  <rect width="48" height="48" rx="12" fill="#10A37F"/>
-  <path d="M13 15.5C13 12.46 15.46 10 18.5 10h11C32.54 10 35 12.46 35 15.5v8C35 26.54 32.54 29 29.5 29H23l-6.4 5.3c-.65.54-1.6.08-1.6-.77V29.1A5.5 5.5 0 0 1 13 23.5v-8Z" fill="#fff"/>
-  <circle cx="19" cy="19.5" r="1.5" fill="#10A37F"/>
-  <circle cx="24" cy="19.5" r="1.5" fill="#10A37F"/>
-  <circle cx="29" cy="19.5" r="1.5" fill="#10A37F"/>
-</svg>
